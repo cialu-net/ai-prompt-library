@@ -6,6 +6,7 @@ A growing collection of reusable prompts for everyday work. Browse a category, c
 
 - [Finance](prompts/finance.md) — compare scenarios and understand financial information
 - [Coding](prompts/coding.md) — debug, review, and plan changes
+- [Gaming](prompts/gaming.md) — build game systems and effects
 - [Research](prompts/research.md) — investigate questions and assess evidence
 - [Writing](prompts/writing.md) — draft and revise clear communication
 - [Productivity](prompts/productivity.md) — make decisions and plan work
