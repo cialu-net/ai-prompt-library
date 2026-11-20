@@ -17,3 +17,15 @@ Review this change for correctness, security, maintainability, and missing tests
 ```text
 I need to implement [FEATURE] in [SYSTEM]. Constraints: [CONSTRAINTS]. Propose a small implementation plan, identify trade-offs and edge cases, and suggest meaningful verification. Ask about any missing detail that would change the design.
 ```
+
+## Design meaningful tests
+
+```text
+Design tests for [BEHAVIOR OR CODE]. The expected contract is [REQUIREMENTS]; the environment is [LANGUAGE AND TEST FRAMEWORK]. Identify high-value normal, boundary, and failure cases, including relevant security or concurrency cases. Provide example tests that check observable behavior and explain any assumptions. Do not claim to have run them.
+```
+
+## Explain unfamiliar code
+
+```text
+Explain this code to someone familiar with [BACKGROUND]: [CODE]. Describe its purpose, inputs, outputs, control flow, and important side effects. Walk through a small example and identify potential failure points. Mark anything that depends on code or configuration not provided.
+```
